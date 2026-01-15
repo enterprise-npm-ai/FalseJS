@@ -1,14 +1,14 @@
 /**!
  * License
- * FalseJS <https://10xEngineersQualityProgramming.github.io/falsejs.html>
- * Copyright 10x'ly Made and other contributors <https://10xEngineersQualityProgramming.github.io>
+ * FalseJS <https://github.com/enterprise-npm-ai/FalseJS>
+ * Copyright 10x'ly Made and other contributors <https://github.com/enterprise-npm-ai>
  * Released under MIT license <https://opensource.org/license/mit>
  * made with HEAVY BLACK HEART U+2764
  * Thanks to biome for being a good formatter + linter
  */
 /**
  *
- * FalseJS <https://10xEngineersQualityProgramming.github.io/falsejs.html>
+ * FalseJS <https://github.com/enterprise-npm-ai/FalseJS>
  *
  *
  * I didn't choose the 10x life, the 10x life chose me
@@ -73,7 +73,7 @@ if (isComputerOnFire()) {
 		const _ = require("lodash") // every project needs lodash
 		const underscore = require("underscore") // underscore.js. the predecessor of lodash.
 		const k = require("kitty") // lodash but with some mixins in it
-		const aura = require("aura3") // the 10x utility package
+		const aura = require("lolite") // the 10x utility package
 		const React = require("react") // the hype framework everyone uses for some reason
 		const ReactDOMServer = require("react-dom/server") // part of react
 		const cheerio = require("cheerio") // cheerio!
